@@ -1,8 +1,8 @@
 # Patika.dev Java 101 Projeleri
 
-Bu depo, Patika.dev Java 101 e�itim serisinde verilen �devleri ve pratik uygulamalar� i�ermektedir.
+Bu depo, Patika.dev Java 101 eğitim serisinde verilen ödevleri ve pratik uygulamaları içermektedir.
 
-## ?? Teknolojiler
+## 💻 Teknolojiler
 - Java 8+
 
-Temel d�ng�ler, ko�ullu ifadeler, metotlar ve s�n�f yap�s�na giri� niteli�indeki algoritmik ��z�mleri i�erir.
+Temel döngüler, koşullu ifadeler, metotlar ve sınıf yapısına giriş niteliğindeki algoritmik çözümleri içerir.
